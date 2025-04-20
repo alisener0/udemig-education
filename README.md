@@ -12,3 +12,7 @@ Bu proje, web geliştirme pratiği kazanmak ve eğitim yönetimi gibi gerçek d�
   - HTML5, CSS3
   - JavaScript
   - Bootstrap 
+
+
+https://github.com/user-attachments/assets/af499853-dabd-469c-83b5-3aeded3fd4f5
+
